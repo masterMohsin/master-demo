@@ -1,4 +1,4 @@
 # master-demo
 This is my first Git repository.
 <br/>
-Author - Mohsin ()
+Author - Mohsin (Master)
